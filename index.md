@@ -9,3 +9,7 @@
 ## Linux
 
 + [miniGUI环境搭建](https://zhouxingkong.github.io/601_docs/linux/miniGUI环境搭建 "标题")
+
+## 软件架构
+
++ [601软件架构](https://zhouxingkong.github.io/601_docs/软件架构/601软件架构 "标题")
