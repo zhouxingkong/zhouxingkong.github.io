@@ -21,6 +21,7 @@
 ## Linux
 
 + [miniGUI环境搭建](https://zhouxingkong.github.io/601_docs/linux/miniGUI环境搭建 "标题")
++ [minicom使用指南](https://zhouxingkong.github.io/601_docs/linux/minicom使用 "标题")
 
 ## 软件架构
 
