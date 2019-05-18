@@ -31,7 +31,7 @@
 
 ## 分布式存储
 
-+ [ceph分布式存储](https://zhouxingkong.github.io/601_docs/media/ceph分布式存储 "标题")
++ [ceph分布式存储](https://zhouxingkong.github.io/601_docs/dfs/ceph分布式存储 "标题")
 
 ## Linux
 + [嵌入式linux usb通信方案](https://zhouxingkong.github.io/601_docs/linux/嵌入式linux-usb通信方案 "标题")
