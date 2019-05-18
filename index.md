@@ -18,8 +18,24 @@
 + [LCD驱动移植](https://zhouxingkong.github.io/601_docs/android/LCD驱动移植 "标题")
 + [android系统USB打印](https://zhouxingkong.github.io/601_docs/android/Android_USB_Printer "标题")
 
-## Linux
+## web开发
 
++ [web应用部署](https://zhouxingkong.github.io/601_docs/web/web应用部署 "标题")
++ [Spring cloud微服务架构](https://zhouxingkong.github.io/601_docs/web/Spring-cloud微服务 "标题")
++ [web响应式编程](https://zhouxingkong.github.io/601_docs/web/响应式编程 "标题")
+
+## 流媒体
++ [流媒体基础知识](https://zhouxingkong.github.io/601_docs/media/流媒体基础知识 "标题")
++ [android端RTMP推流方案](https://zhouxingkong.github.io/601_docs/media/android端RTMP推流方案 "标题")
++ [android端RTMP播放方案](https://zhouxingkong.github.io/601_docs/media/android端RTMP播放方案 "标题")
+
+## 分布式存储
+
++ [ceph分布式存储](https://zhouxingkong.github.io/601_docs/media/ceph分布式存储 "标题")
+
+## Linux
++ [嵌入式linux usb通信方案](https://zhouxingkong.github.io/601_docs/linux/嵌入式linux-usb通信方案 "标题")
++ [嵌入式linux图形显示方案-基于QT5](https://zhouxingkong.github.io/601_docs/linux/嵌入式linux图形显示方案-基于QT5 "标题")
 + [miniGUI环境搭建](https://zhouxingkong.github.io/601_docs/linux/miniGUI环境搭建 "标题")
 + [minicom使用指南](https://zhouxingkong.github.io/601_docs/linux/minicom使用 "标题")
 
