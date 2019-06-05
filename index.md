@@ -12,6 +12,7 @@
 + [android系统编译](https://zhouxingkong.github.io/601_docs/android/android系统编译 "标题")
 + [Android 镜像编译补充说明](https://zhouxingkong.github.io/601_docs/android/Android 镜像编译补充说明 "标题")
 + [android 5.1裁剪](https://zhouxingkong.github.io/601_docs/android/android裁剪 "标题")
++ [android 5.1 root权限获取](https://zhouxingkong.github.io/601_docs/android/android-5.1-root "标题")
 
 #### 驱动篇
 + [LCD驱动源码萃取](https://zhouxingkong.github.io/601_docs/android/LCD驱动源码萃取 "标题")
