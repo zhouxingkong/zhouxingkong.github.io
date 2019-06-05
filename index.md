@@ -21,7 +21,7 @@
 ## web开发
 
 + [web应用部署](https://zhouxingkong.github.io/601_docs/web/web应用部署 "标题")
-+ [Spring cloud微服务架构](https://zhouxingkong.github.io/601_docs/web/Spring-cloud微服务 "标题")
++ [Spring cloud微服务架构](https://zhouxingkong.github.io/601_docs/web/spring-cloud微服务 "标题")
 + [web响应式编程](https://zhouxingkong.github.io/601_docs/web/响应式编程 "标题")
 
 ## 流媒体
